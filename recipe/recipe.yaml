@@ -27,6 +27,7 @@ requirements:
     - palettable
     - pandas
     - python >=${{ python_min }}
+    - setuptools
 
 tests:
   - python:
